@@ -1,5 +1,5 @@
 # Minimal Jupyter Notebook Stack
-Based on the jupyter/minimal-notebook container
+Based on the jupyter/minimal-notebook container (https://github.com/jupyter/docker-stacks)
 
 ## What it Gives You
 
