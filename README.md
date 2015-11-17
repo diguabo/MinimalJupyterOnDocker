@@ -1,4 +1,4 @@
-# Minimal Jupyter Notebook Stack
+# Minimal Jupyter Notebook
 Based on the jupyter/minimal-notebook container (https://github.com/jupyter/docker-stacks)
 
 ## What it Gives You
@@ -42,3 +42,4 @@ You may customize the execution of the Docker container and the Notebook server 
 ## Conda Environment
 
 The default Python 3.x [Conda environment](http://conda.pydata.org/docs/using/envs.html) resides in `/opt/conda`. The commands `ipython`, `python`, `pip`, `easy_install`, and `conda` (among others) are available in this environment.
+
